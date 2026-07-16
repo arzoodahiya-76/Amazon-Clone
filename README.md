@@ -31,9 +31,20 @@ Through this project, I practiced:
 - Positioning and layout design
 - Building real-world webpage layouts
 
+
 ## Project Preview
 
-*(Add screenshots here.)*
+### Homepage
+
+![Homepage](Project-Preview/Amazon-Homepage.png)
+
+### Shopping Section
+
+![Shopping Section](Project-Preview/Amazon-Shopping.png)
+
+### Footer
+
+![Footer](Project-Preview/Amazon-Footer.png)
 
 ## Future Improvements
 
